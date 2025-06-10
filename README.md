@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I’m Abdulsalam Hassan 👋
 
-<!--
-**dev-abdulsalam1/dev-abdulsalam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A first-year Computer Science student passionate about learning and building awesome tech!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🧑‍💻 I’m currently learning **React.js** and **full-stack development**
+- 🔭 Focused on the **MERN stack** (MongoDB, Express.js, React, Node.js)
+- 💡 I love learning by building — you’ll find my journey through hands-on projects
+- 🤝 Open to collaboration and contribution opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech I’m Working With
+- Languages: JavaScript, HTML, CSS
+- Frameworks: React.js, Node.js (in progress)
+- Tools: Git, GitHub, Vercel, VS Code
+
+## 🌟 Fun Facts
+- ☕ Coffee + Code = Productivity
+- 🧠 I enjoy turning ideas into real-world applications
+- 🎯 On a mission to become a great software engineer
+- 🌍 I’m based in Somalia, learning and building globally
+
+## 📫 Let’s Connect!
+- Portfolio: [Add Your Portfolio Link Here]
+- LinkedIn: [Add LinkedIn Profile Here]
+
+> "Keep building. Keep learning. Keep growing." 🚀
