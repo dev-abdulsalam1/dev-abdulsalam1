@@ -20,7 +20,7 @@
 - 🌍 I’m based in Somalia, learning and building globally
 
 ## 📫 Let’s Connect!
-- Email: [Cshiiqow@gmail.com]
+- portfolio : [https://polished-portfolio-wave.lovable.app/]
 - LinkedIn: [https://www.linkedin.com/in/abdulsalam-hassan-296739368/]
 
 > "Keep building. Keep learning. Keep growing." 🚀
