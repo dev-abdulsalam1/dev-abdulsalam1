@@ -20,7 +20,7 @@
 - 🌍 I’m based in Somalia, learning and building globally
 
 ## 📫 Let’s Connect!
-- Portfolio: [Add Your Portfolio Link Here]
-- LinkedIn: [Add LinkedIn Profile Here]
+- Email: [Cshiiqow@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/abdulsalam-hassan-296739368/]
 
 > "Keep building. Keep learning. Keep growing." 🚀
