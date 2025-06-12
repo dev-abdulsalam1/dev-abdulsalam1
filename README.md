@@ -1,6 +1,6 @@
 # Hi there, I’m Abdulsalam Hassan 👋
 
-🎓 A first-year Computer Science student passionate about learning and building awesome tech!
+🎓 A first-year Computer Science student at SIMAD Univesity passionate about learning and building awesome tech!
 
 ## 🚀 About Me
 - 🧑‍💻 I’m currently learning **React.js** and **full-stack development**
