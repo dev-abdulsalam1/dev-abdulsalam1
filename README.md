@@ -10,7 +10,7 @@
 
 ## 💻 Tech I’m Working With
 - Languages: JavaScript, HTML, CSS
-- Frameworks: React.js, Node.js (in progress)
+- Frameworks: React.js (in progress)
 - Tools: Git, GitHub, Vercel, VS Code
 
 ## 🌟 Fun Facts
