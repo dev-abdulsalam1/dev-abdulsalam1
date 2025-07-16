@@ -20,7 +20,7 @@
 - 🌍 I’m based in Somalia, learning and building globally
 
 ## 📫 Let’s Connect!
-- portfolio : [https://polished-portfolio-wave.lovable.app/]
+- portfolio : [https://abdusalam-portfolio.vercel.app/]
 - LinkedIn: [https://www.linkedin.com/in/abdulsalam-hassan-296739368/]
 
 > "Keep building. Keep learning. Keep growing." 🚀
