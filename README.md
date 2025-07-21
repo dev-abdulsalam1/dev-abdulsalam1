@@ -8,7 +8,7 @@
 - 💡 I love learning by building — you’ll find my journey through hands-on projects
 - 🤝 Open to collaboration and contribution opportunities
 
-## 💻 Tech I’m Working With
+## 💻 Tech I’m Working With 
 - Languages: JavaScript, HTML, CSS
 - Frameworks: React.js (in progress)
 - Tools: Git, GitHub, Vercel, VS Code
