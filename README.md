@@ -19,7 +19,7 @@
 - 💼 **Portfolio:** [https://abdulsalam-ten.vercel.app](https://abdulsalam-ten.vercel.app)  
 
 ## 🌟 Fun Facts
-- 💧 water + Code = Productivity  
+- 💧 water + Code = Productivity 
 - 🧠 Enjoy turning ideas into real-world applications  
 - 🌍 Based in Somalia, building for a global audience  
 
