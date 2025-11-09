@@ -6,7 +6,7 @@
 - 🧑‍💻 I build web apps with **modern JavaScript frameworks** and **full-stack technologies**  
 - 🔭 Focused on **MERN stack + Next.js**  
 - 💡 Learning by building real-world projects  
-- 🤝 Open to collaboration and contribution opportunities  
+- 🤝 Open to collaboration and contribution opportunities 
 
 ## 💻 Tech Stack
 - **Frontend:** React.js, Next.js, Tailwind CSS, Shadcn UI, HTML, CSS, JavaScript  
