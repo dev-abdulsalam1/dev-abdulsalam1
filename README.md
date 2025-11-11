@@ -12,7 +12,7 @@
 - **Frontend:** React.js, Next.js, Tailwind CSS, Shadcn UI, HTML, CSS, JavaScript  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
-- **Authentication:** Clerk  
+- **Authentication:** JWT and nextAuth  
 - **Deployment & Hosting:** Vercel, Supabase  
 
 ## 🌟 Portfolio   
