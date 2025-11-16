@@ -7,7 +7,6 @@ I'm a motivated **second-year Computer Science student** and self-taught full-st
 ## 🚀 About Me
 - 🧑‍💻 I build web apps with **modern JavaScript frameworks** and **full-stack technologies**  
 - 🔭 Focused on **MERN stack + Next.js**
-- Building real projects — **dashboards, management systems, portfolios, and SaaS ideas**
 - 💡 Learning by building real-world projects  
 - 🤝 Open to collaboration and contribution opportunities 
 
