@@ -1,8 +1,8 @@
 ## Hi there, I’m Abdulsalam Hassan 👋
 
-# Full-Stack Developer | CS Student | React & Next.js Enthusiast
+# Full-Stack Developer | CS Student
 
-I'm a motivated Computer Science student and self-taught full-stack developer who loves building scalable apps, clean UI, and solving real-world problems with code.
+I'm a motivated **second-year Computer Science student** and self-taught full-stack developer who enjoys building scalable applications, clean user interfaces, and solving real-world problems with code.
 
 ## 🚀 About Me
 - 🧑‍💻 I build web apps with **modern JavaScript frameworks** and **full-stack technologies**  
@@ -17,7 +17,7 @@ I'm a motivated Computer Science student and self-taught full-stack developer wh
 - **State Management:** Redux Toolkit
 - **Database:** MongoDB,Supabase
 - **Authentication:** JWT and nextAuth  
-- **Deployment & Hosting:** Vercel, Supabase  
+- **Deployment & Hosting:** Vercel  
 
 ## 🌟 Portfolio   
 - 💼 **Portfolio:** [https://abdulsalam-ten.vercel.app](https://abdulsalam-ten.vercel.app)  
