@@ -20,7 +20,7 @@ I'm a motivated **second-year Computer Science student** and self-taught full-st
 - **Deployment & Hosting:** Vercel  
 
 ## 🌟 Portfolio   
-- 💼 **Portfolio:** [https://abdulsalam-ten.vercel.app](https://abdulsalam-ten.vercel.app)  
+- 💼 **Portfolio:**  [Abdulsalam Hassan portfolio](https://abdulsalam-ten.vercel.app)  
 
 ## 🌟 Fun Facts
 - 💧 water + Code = Productivity 
