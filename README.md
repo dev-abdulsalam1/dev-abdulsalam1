@@ -21,11 +21,6 @@ I'm a motivated **second-year Computer Science student** and self-taught full-st
 ## 🌟 Portfolio   
 - 💼 **Portfolio:**  [Abdulsalam Hassan portfolio](https://abdulsalam-ten.vercel.app)  
 
-## 🌟 Fun Facts
-- 💧 water + Code = Productivity 
-- 🧠 Enjoy turning ideas into real-world applications  
-- 🌍 Based in Somalia, building for a global audience  
-
 ## 📫 Let’s Connect!
 - **LinkedIn:** [Abdulsalam Hassan](https://www.linkedin.com/in/abdulsalam-hassan-296739368/)  
 
