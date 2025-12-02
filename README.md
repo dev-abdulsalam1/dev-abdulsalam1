@@ -13,7 +13,7 @@ I'm a motivated **second-year Computer Science student** and self-taught full-st
 ## 💻 Tech Stack
 - **Frontend:** React.js, Next.js, Tailwind CSS, Shadcn UI, HTML, CSS, JavaScript  
 - **Backend:** Node.js, Express.js
-- **State Management:** Redux Toolkit
+- **State Management:** Zustand, Redux Toolkit
 - **Database:** MongoDB,Supabase
 - **Authentication:** JWT and nextAuth  
 - **Deployment & Hosting:** Vercel  
